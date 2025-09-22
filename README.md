@@ -2,6 +2,8 @@
 
 "CoreWriter-powered Hyperliquid terminal: pro strategies, vaults & CEX-grade mobile trading"
 
+- [Decks](https://gamma.app/docs/HyperTrade-rdyyb2mja1olxg2)
+
 ## **How does it work?**
 
 HyperTrade delivers a complete Hyperliquid trading ecosystem through deep technical integration:

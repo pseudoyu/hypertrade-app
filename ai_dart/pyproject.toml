@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ai-dart"
+version = "0.1.0"
+description = "a cool way to generate dart code"
+authors = ["aboutmydreams <aboutmydreams@163.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+httpx = "^0.27.2"
+swagger-parser = "^1.0.2"
+six = "^1.16.0"
+way3 = "^1.0.2"
+parse-llm-code = "^0.1.31"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

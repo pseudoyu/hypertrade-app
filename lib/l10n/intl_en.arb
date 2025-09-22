@@ -1,0 +1,261 @@
+{
+  "@@locale": "en",
+  "appTitle": "ChewSky",
+  "aboutus": "About Us \nWill be like a rainbow after the rain?",
+  "sometalk": "You are the huge ocean and I am the rain falling on you. Do you think this is love? I opened my hands, but I only hugged the wind. Could this be love? You see a rainbow appears in the sky after the rain. Could this be love? The dark clouds always hang over my head. Do you think this is love? When I am wandering with infinite thoughts, I will always meet you. Do you think this is love? I don’t know who gave me a tearful dream at night. Could it be love? when you have insomnia, go out for a walk. The stars are blinking. Is this love? What is love? Is it deeper than death? Will it last longer than the stars? Will it be gentler than the breeze? Will it be more gorgeous and confusing than a rainbow?",
+  "feelsLike": "Feels Like",
+  "precipitation": "Precipitation",
+  "uvIndex": "UV Index",
+  "wind": "Wind",
+  "humidity": "Humidity",
+  "cloudiness": "Cloudiness",
+  "today": "Today",
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+  "veryHigh": "Very High",
+  "extreme": "Extreme",
+  "unknown": "Unknown",
+  "thunderstorm": "Thunderstorm",
+  "drizzle": "Drizzle",
+  "rain": "Rain",
+  "snow": "Snow",
+  "clear": "Clear",
+  "clouds": "Clouds",
+  "mist": "Mist",
+  "fog": "Fog",
+  "smoke": "Smoke",
+  "haze": "Haze",
+  "dust": "Dust",
+  "sand": "Sand",
+  "ash": "Ash",
+  "squall": "Squall",
+  "tornado": "Tornado",
+  "thunderstormWithLightRain": "Thunderstorm with Light Rain",
+  "thunderstormWithRain": "Thunderstorm with Rain",
+  "thunderstormWithHeavyRain": "Thunderstorm with Heavy Rain",
+  "lightThunderstorm": "Light Thunderstorm",
+  "heavyThunderstorm": "Heavy Thunderstorm",
+  "raggedThunderstorm": "Ragged Thunderstorm",
+  "thunderstormWithLightDrizzle": "Thunderstorm with Light Drizzle",
+  "thunderstormWithDrizzle": "Thunderstorm with Drizzle",
+  "thunderstormWithHeavyDrizzle": "Thunderstorm with Heavy Drizzle",
+  "lightIntensityDrizzle": "Light Intensity Drizzle",
+  "heavyIntensityDrizzle": "Heavy Intensity Drizzle",
+  "lightIntensityDrizzleRain": "Light Intensity Drizzle Rain",
+  "drizzleRain": "Drizzle Rain",
+  "heavyIntensityDrizzleRain": "Heavy Intensity Drizzle Rain",
+  "showerRainAndDrizzle": "Shower Rain and Drizzle",
+  "heavyShowerRainAndDrizzle": "Heavy Shower Rain and Drizzle",
+  "showerDrizzle": "Shower Drizzle",
+  "lightRain": "Light Rain",
+  "moderateRain": "Moderate Rain",
+  "heavyIntensityRain": "Heavy Intensity Rain",
+  "veryHeavyRain": "Very Heavy Rain",
+  "extremeRain": "Extreme Rain",
+  "freezingRain": "Freezing Rain",
+  "lightIntensityShowerRain": "Light Intensity Shower Rain",
+  "showerRain": "Shower Rain",
+  "heavyIntensityShowerRain": "Heavy Intensity Shower Rain",
+  "raggedShowerRain": "Ragged Shower Rain",
+  "lightSnow": "Light Snow",
+  "heavySnow": "Heavy Snow",
+  "sleet": "Sleet",
+  "lightShowerSleet": "Light Shower Sleet",
+  "showerSleet": "Shower Sleet",
+  "lightRainAndSnow": "Light Rain and Snow",
+  "rainAndSnow": "Rain and Snow",
+  "lightShowerSnow": "Light Shower Snow",
+  "showerSnow": "Shower Snow",
+  "heavyShowerSnow": "Heavy Shower Snow",
+  "sandDustWhirls": "Sand/Dust Whirls",
+  "volcanicAsh": "Volcanic Ash",
+  "squalls": "Squalls",
+  "clearSky": "Clear Sky",
+  "fewClouds": "Few Clouds",
+  "scatteredClouds": "Scattered Clouds",
+  "brokenClouds": "Broken Clouds",
+  "overcastClouds": "Overcast Clouds",
+  "morningTemp": "Morning Temp",
+  "dayTemp": "Day Temp",
+  "eveningTemp": "Evening Temp",
+  "nightTemp": "Night Temp",
+  "detail": "detail",
+  "nextWeek": "Next Week",
+  "weatherCondition": "Weather Condition",
+  "requestError": "Request error, please check your internet connection",
+  "locationPermissionsDenied": "Location permissions are permanently denied, Please enable manually from app settings and restart the app",
+  "locationPermissionNotGranted": "Location permission not granted, please check your location permission",
+  "now": "Now",
+  "search": "Search",
+  "permissionDenied": "Permission denied",
+  "locationServiceDisabled": "Location service disabled",
+  "@locationServiceDisabled": {
+    "description": "The message shown when location service is disabled"
+  },
+  "@permissionDenied": {
+    "description": "The message shown when permission is denied"
+  },
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "@search": {
+    "description": "The word 'Search'"
+  },
+  "@now": {
+    "description": "Now"
+  },
+  "@detail": {
+    "description": "Detail",
+    "type": "text"
+  },
+  "@nextWeek": {
+    "description": "Next Week",
+    "type": "text"
+  },
+  "@weatherCondition": {
+    "description": "Weather Condition",
+    "type": "text"
+  },
+  "@requestError": {
+    "description": "Request error message",
+    "type": "text"
+  },
+  "@locationPermissionsDenied": {
+    "description": "Message indicating that location permissions are permanently denied",
+    "type": "text"
+  },
+  "@locationPermissionNotGranted": {
+    "description": "Message indicating that location permission is not granted",
+    "type": "text"
+  },
+  "@feelsLike": {
+    "description": "Feels Like temperature",
+    "type": "text"
+  },
+  "@precipitation": {
+    "description": "Precipitation",
+    "type": "text"
+  },
+  "@uvIndex": {
+    "description": "UV Index",
+    "type": "text"
+  },
+  "@wind": {
+    "description": "Wind",
+    "type": "text"
+  },
+  "@humidity": {
+    "description": "Humidity",
+    "type": "text"
+  },
+  "@cloudiness": {
+    "description": "Cloudiness",
+    "type": "text"
+  },
+  "@today": {
+    "description": "Today",
+    "type": "text"
+  },
+  "@low": {
+    "description": "Low (UV Index)",
+    "type": "text"
+  },
+  "@medium": {
+    "description": "Medium (UV Index)",
+    "type": "text"
+  },
+  "@high": {
+    "description": "High (UV Index)",
+    "type": "text"
+  },
+  "@veryHigh": {
+    "description": "Very High (UV Index)",
+    "type": "text"
+  },
+  "@extreme": {
+    "description": "Extreme (UV Index)",
+    "type": "text"
+  },
+  "@unknown": {
+    "description": "Unknown",
+    "type": "text"
+  },
+  "@thunderstorm": {
+    "description": "Thunderstorm",
+    "type": "text"
+  },
+  "@drizzle": {
+    "description": "Drizzle",
+    "type": "text"
+  },
+  "@rain": {
+    "description": "Rain",
+    "type": "text"
+  },
+  "@snow": {
+    "description": "Snow",
+    "type": "text"
+  },
+  "@clear": {
+    "description": "Clear",
+    "type": "text"
+  },
+  "@clouds": {
+    "description": "Clouds",
+    "type": "text"
+  },
+  "@mist": {
+    "description": "Mist",
+    "type": "text"
+  },
+  "@fog": {
+    "description": "Fog",
+    "type": "text"
+  },
+  "@smoke": {
+    "description": "Smoke",
+    "type": "text"
+  },
+  "@haze": {
+    "description": "Haze",
+    "type": "text"
+  },
+  "@dust": {
+    "description": "Dust",
+    "type": "text"
+  },
+  "@sand": {
+    "description": "Sand",
+    "type": "text"
+  },
+  "@ash": {
+    "description": "Ash",
+    "type": "text"
+  },
+  "@squall": {
+    "description": "Squall",
+    "type": "text"
+  },
+  "@tornado": {
+    "description": "Tornado",
+    "type": "text"
+  },
+  "@morningTemp": {
+    "description": "Morning Temperature",
+    "type": "text"
+  },
+  "@dayTemp": {
+    "description": "Day Temperature",
+    "type": "text"
+  },
+  "@eveningTemp": {
+    "description": "Evening Temperature",
+    "type": "text"
+  },
+  "@nightTemp": {
+    "description": "Night Temperature",
+    "type": "text"
+  }
+}

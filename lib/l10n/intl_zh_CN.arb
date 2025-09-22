@@ -1,0 +1,259 @@
+{
+  "@@locale": "zh_CN",
+  "appTitle": "hyper_pro",
+  "aboutus": "关于我们 \n会像是雨后彩虹吗？",
+  "sometalk": "乌云总是挂在我头上不散开，你说这算爱吗？雨点穿越千丈，落进海洋，你说这会是爱吗？你看雨后的天空出现了彩虹，这会是爱吗？我张开了双手，也抱住了微风，这会是爱吗？在思绪漫游的时候，总能和你的相撞，你说这会是爱吗？夜晚不知是谁托了个热泪的梦，那会是爱吗？睡不着的时候，出去走走吧，繁星眨眼睛，这会是爱吗？成群流星下落的雨，那是眼泪吗？给陈朵选择的自由，选择怎么死，这不是爱吗？什么是爱啊，会比死亡深刻吗？会比星空持久吗？会比微风温柔吗？会比彩虹绚烂和迷惑吗？",
+  "feelsLike": "体感温度",
+  "precipitation": "降水",
+  "uvIndex": "紫外线指数",
+  "wind": "风",
+  "humidity": "湿度",
+  "cloudiness": "云量",
+  "today": "今天",
+  "low": "低",
+  "medium": "中",
+  "high": "高",
+  "veryHigh": "非常高",
+  "extreme": "极高",
+  "unknown": "未知",
+  "thunderstorm": "雷暴",
+  "drizzle": "毛毛雨",
+  "rain": "雨",
+  "snow": "雪",
+  "clear": "晴朗",
+  "clouds": "多云",
+  "mist": "薄雾",
+  "fog": "雾",
+  "smoke": "烟雾",
+  "haze": "霾",
+  "dust": "尘土",
+  "sand": "沙",
+  "ash": "灰烬",
+  "squall": "飑",
+  "tornado": "龙卷风",
+  "thunderstormWithLightRain": "雷阵雨伴有小雨",
+  "thunderstormWithRain": "雷阵雨伴有雨",
+  "thunderstormWithHeavyRain": "雷阵雨伴有大雨",
+  "lightThunderstorm": "轻度雷阵雨",
+  "heavyThunderstorm": "强雷阵雨",
+  "raggedThunderstorm": "阵性雷阵雨",
+  "thunderstormWithLightDrizzle": "雷阵雨伴有小毛毛雨",
+  "thunderstormWithDrizzle": "雷阵雨伴有毛毛雨",
+  "thunderstormWithHeavyDrizzle": "雷阵雨伴有大毛毛雨",
+  "lightIntensityDrizzle": "小强度毛毛雨",
+  "heavyIntensityDrizzle": "大强度毛毛雨",
+  "lightIntensityDrizzleRain": "小强度毛毛雨和雨",
+  "drizzleRain": "毛毛雨和雨",
+  "heavyIntensityDrizzleRain": "大强度毛毛雨和雨",
+  "showerRainAndDrizzle": "阵雨和毛毛雨",
+  "heavyShowerRainAndDrizzle": "强阵雨和毛毛雨",
+  "showerDrizzle": "阵毛毛雨",
+  "lightRain": "小雨",
+  "moderateRain": "中雨",
+  "heavyIntensityRain": "大强度雨",
+  "veryHeavyRain": "非常大雨",
+  "extremeRain": "极端大雨",
+  "freezingRain": "冻雨",
+  "lightIntensityShowerRain": "小强度阵雨",
+  "showerRain": "阵雨",
+  "heavyIntensityShowerRain": "大强度阵雨",
+  "raggedShowerRain": "阵性阵雨",
+  "lightSnow": "小雪",
+  "heavySnow": "大雪",
+  "sleet": "雨夹雪",
+  "lightShowerSleet": "小阵雨夹雪",
+  "showerSleet": "阵雨夹雪",
+  "lightRainAndSnow": "小雨和雪",
+  "rainAndSnow": "雨和雪",
+  "lightShowerSnow": "小阵雪",
+  "showerSnow": "阵雪",
+  "heavyShowerSnow": "大阵雪",
+  "sandDustWhirls": "沙尘旋风",
+  "volcanicAsh": "火山灰",
+  "squalls": "飑",
+  "clearSky": "晴空",
+  "fewClouds": "少云",
+  "scatteredClouds": "零散云",
+  "brokenClouds": "碎云",
+  "overcastClouds": "阴云",
+  "morningTemp": "早晨温度",
+  "dayTemp": "白天温度",
+  "eveningTemp": "傍晚温度",
+  "nightTemp": "夜间温度",
+  "detail": "详情",
+  "nextWeek": "未来一周",
+  "weatherCondition": "天气状况",
+  "requestError": "请求错误，请检查网络连接",
+  "locationPermissionsDenied": "位置权限已被永久拒绝，请从应用设置中手动启用并重新启动应用",
+  "locationPermissionNotGranted": "未授予位置权限，请检查您的位置权限",
+  "search": "搜索",
+  "now": "当下",
+  "permissionDenied": "权限被拒绝",
+  "locationServiceDisabled": "位置服务已禁用",
+  "@locationServiceDisabled": {
+    "description": "位置服务已禁用时显示的消息"
+  },
+  "@permissionDenied": {
+    "description": "The message shown when permission is denied"
+  },
+  "@appTitle": {
+    "description": "应用程序的标题"
+  },
+  "@detail": {
+    "description": "The word 'Detail'"
+  },
+  "@search": {
+    "description": "The word 'Search'"
+  },
+  "@now": {
+    "description": "现在"
+  },
+  "@locationPermissionsDenied": {
+    "description": "消息表明位置权限已被永久拒绝",
+    "type": "text"
+  },
+  "@locationPermissionNotGranted": {
+    "description": "消息表明未授予位置权限",
+    "type": "text"
+  },
+  "@nextWeek": {
+    "description": "下周",
+    "type": "text"
+  },
+  "@weatherCondition": {
+    "description": "天气状况",
+    "type": "text"
+  },
+  "@requestError": {
+    "description": "请求错误消息",
+    "type": "text"
+  },
+  "@feelsLike": {
+    "description": "体感温度",
+    "type": "text"
+  },
+  "@precipitation": {
+    "description": "降水",
+    "type": "text"
+  },
+  "@uvIndex": {
+    "description": "紫外线指数",
+    "type": "text"
+  },
+  "@wind": {
+    "description": "风",
+    "type": "text"
+  },
+  "@humidity": {
+    "description": "湿度",
+    "type": "text"
+  },
+  "@cloudiness": {
+    "description": "云量",
+    "type": "text"
+  },
+  "@today": {
+    "description": "今天",
+    "type": "text"
+  },
+  "@low": {
+    "description": "低（紫外线指数）",
+    "type": "text"
+  },
+  "@medium": {
+    "description": "中（紫外线指数）",
+    "type": "text"
+  },
+  "@high": {
+    "description": "高（紫外线指数）",
+    "type": "text"
+  },
+  "@veryHigh": {
+    "description": "非常高（紫外线指数）",
+    "type": "text"
+  },
+  "@extreme": {
+    "description": "极高（紫外线指数）",
+    "type": "text"
+  },
+  "@unknown": {
+    "description": "未知",
+    "type": "text"
+  },
+  "@thunderstorm": {
+    "description": "雷暴天气",
+    "type": "text"
+  },
+  "@drizzle": {
+    "description": "毛毛雨",
+    "type": "text"
+  },
+  "@rain": {
+    "description": "雨",
+    "type": "text"
+  },
+  "@snow": {
+    "description": "雪",
+    "type": "text"
+  },
+  "@clear": {
+    "description": "晴朗天气",
+    "type": "text"
+  },
+  "@clouds": {
+    "description": "多云天气",
+    "type": "text"
+  },
+  "@mist": {
+    "description": "薄雾",
+    "type": "text"
+  },
+  "@fog": {
+    "description": "雾",
+    "type": "text"
+  },
+  "@smoke": {
+    "description": "烟雾",
+    "type": "text"
+  },
+  "@haze": {
+    "description": "霾",
+    "type": "text"
+  },
+  "@dust": {
+    "description": "尘土",
+    "type": "text"
+  },
+  "@sand": {
+    "description": "沙",
+    "type": "text"
+  },
+  "@ash": {
+    "description": "灰烬",
+    "type": "text"
+  },
+  "@squall": {
+    "description": "飑",
+    "type": "text"
+  },
+  "@tornado": {
+    "description": "龙卷风",
+    "type": "text"
+  },
+  "@morningTemp": {
+    "description": "早晨温度",
+    "type": "text"
+  },
+  "@dayTemp": {
+    "description": "白天温度",
+    "type": "text"
+  },
+  "@eveningTemp": {
+    "description": "傍晚温度",
+    "type": "text"
+  },
+  "@nightTemp": {
+    "description": "夜间温度",
+    "type": "text"
+  }
+}
